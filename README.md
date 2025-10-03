@@ -23,7 +23,7 @@ I'm a passionate software developer dedicated to building seamless and engaging 
 - 📫 Let's connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/apurbadas2509/" target="_blank">
+  <a href="www.linkedin.com/in/sounak-kumar-mondal-2660b7314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/___apurbax___/" target="_blank">
